@@ -10,7 +10,7 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context="com.example.priyanka.oilLocations.com.example.david.oilLocations.MapsActivity"
+        tools:context="com.example.david.oilLocations.com.example.david.oilLocations.MapsActivity"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_below="@+id/car_repair" />

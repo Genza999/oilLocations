@@ -1,4 +1,4 @@
-package com.example.priyanka.oilLocations;
+package com.example.david.oilLocations;
 
 import org.junit.Test;
 

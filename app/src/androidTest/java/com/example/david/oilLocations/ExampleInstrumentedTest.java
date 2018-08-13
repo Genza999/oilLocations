@@ -1,4 +1,4 @@
-package com.example.priyanka.oilLocations;
+package com.example.david.oilLocations;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
