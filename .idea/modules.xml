@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoogleMapsNearbyPlacesDemo-master.iml" filepath="$PROJECT_DIR$/GoogleMapsNearbyPlacesDemo-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oilLocations.iml" filepath="$PROJECT_DIR$/oilLocations.iml" />
     </modules>
   </component>
 </project>

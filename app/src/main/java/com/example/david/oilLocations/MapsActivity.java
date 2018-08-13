@@ -183,7 +183,7 @@ LocationListener{
         googlePlaceUrl.append("&radius="+PROXIMITY_RADIUS);
         googlePlaceUrl.append("&type="+nearbyPlace);
         googlePlaceUrl.append("&sensor=true");
-        googlePlaceUrl.append("&key="+"AIzaSyDPzR5OkueCehpLyK1HjHgvdArWWNfvBk0");
+        googlePlaceUrl.append("&key="+"AIzaSyANVuDEui9yEERXzXsjO7IG62UCvTlWLHg");
 
         Log.d("MapsActivity", "url = "+googlePlaceUrl.toString());
 
